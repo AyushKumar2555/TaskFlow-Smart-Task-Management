@@ -43,9 +43,9 @@ cd backend
 npm install
 npm start
 ```
-```bash
-###Frontend Setup
 
+Frontend Setup
+```bash
 cd frontend
 npm install
 npm run dev
