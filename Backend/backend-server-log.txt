@@ -1,0 +1,34 @@
+BACKEND SERVER LOG - TASKFLOW
+Timestamp: 2025-10-01 20:18:00
+
+INITIALIZING SERVER...
+[20:18:00] Loading environment variables
+[20:18:01] PORT: 5000
+
+DATABASE CONNECTION:
+[20:18:05] Attempting MongoDB connection...
+[20:18:08] MongoDB connected successfully
+
+SERVER CONFIGURATION:
+[20:18:12] Express app initialized
+[20:18:13] Middleware stack configured
+
+ROUTE REGISTRATION:
+[20:18:20] Registering authentication routes...
+[20:18:21]   POST /api/auth/register
+[20:18:22]   POST /api/auth/login
+
+SERVER STARTUP:
+[20:18:35] Starting HTTP server...
+[20:18:36] Server listening on port 5000
+[20:18:37] Backend server running successfully
+
+SERVER STATUS:
+[20:18:50] Server: RUNNING
+[20:18:51] Database: CONNECTED
+[20:18:52] Authentication: ACTIVE
+
+READY FOR CLIENT REQUESTS...
+[20:18:55] Server available at: http://localhost:5000
+
+BACKEND SERVER OPERATIONAL.
