@@ -14,7 +14,7 @@ A full-stack task management application with user authentication and CRUD opera
 
 ### Frontend
 - React.js
-- CSS3
+- Taiwind CSS
 - HTML5
 
 ### Backend
@@ -42,11 +42,15 @@ TaskFlow/
 cd backend
 npm install
 npm start
-Frontend Setup
+```
+```bash
+###Frontend Setup
+
 cd frontend
 npm install
 npm run dev
-
+```
+```
 🔗 API Endpoints
 POST /api/auth/register - User registration
 
